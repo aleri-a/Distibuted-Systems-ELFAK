@@ -1,0 +1,6 @@
+Moj savet ti je:
+Podesi MPI u VS da ti radi, nije komplikovano koliko ti se cini da jeste, tako ces mnogo brzo da prodjes sve videces sta ti radi, sto ti ne radi, mnogo brzo ces posle da razmisljas na ispitu, tako kada sam radila zadatak sam uradila za 30 min. 
+-u kopija2020 ima dosta toga uradjeno sto sa lab vezbi sto sa ispita, ove sto sam zvala u Main sve rade, mozda poslednja samo ne a mozda je i ona cela. 
+-Pre ispita na papiru napisi tj vidi logiku koja ide za neki zadatak sa mnozenjem kad posaljes k vrsta 1 matrice i m kolona druge matrice, kako0da ih izmnozis i sve to sredis (tako neki zadatak), msm da nemam to napisano u kodu. 
+
+-Zena je mnogo korektna, skinula mi jer sam mat A i mat B slala preko point-to-point a trebalo B preko grupnih, tako da lepo citaj zadatak. 

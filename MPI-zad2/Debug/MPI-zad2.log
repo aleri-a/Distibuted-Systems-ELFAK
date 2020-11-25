@@ -1,0 +1,4 @@
+﻿  Poslednje.cpp
+D:\D particija\SANJA\VI semestar\DS\lab\lab2-MPI\MPI-zad2\MPI-zad2\Poslednje.cpp(98,13): warning C4101: 'st': unreferenced local variable
+D:\D particija\SANJA\VI semestar\DS\lab\lab2-MPI\MPI-zad2\MPI-zad2\Poslednje.cpp(262,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MPI-zad2.vcxproj -> D:\D particija\SANJA\VI semestar\DS\lab\lab2-MPI\MPI-zad2\Debug\MPI-zad2.exe
